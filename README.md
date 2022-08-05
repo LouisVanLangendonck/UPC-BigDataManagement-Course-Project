@@ -1,1 +1,1 @@
-# UPC-BigDataManagement-Course-Project
+# BDM_project

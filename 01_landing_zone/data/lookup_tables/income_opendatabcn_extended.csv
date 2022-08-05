@@ -1,0 +1,74 @@
+district,neighborhood,district_n_reconciled,district_n,district_id,neighborhood_n_reconciled,neighborhood_n,neighborhood_id
+Ciutat Vella,el Barri Gòtic,Ciutat Vella,ciutat vella,Q941385,Gothic Quarter,el barri gotic,Q17154
+Nou Barris,Can Peguera,Nou Barris,nou barris,Q1641049,Can Peguera,can peguera,Q3320716
+Nou Barris,la Trinitat Nova,Nou Barris,nou barris,Q1641049,La Trinitat Nova,la trinitat nova,Q3750932
+Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,sarria sant gervasi,Q1765582,Sant Gervasi – la Bonanova,sant gervasi la bonanova,Q3321657
+Sarrià-Sant Gervasi,les Tres Torres,Sarrià-Sant Gervasi,sarria sant gervasi,Q1765582,Les Tres Torres,les tres torres,Q3297896
+Eixample,l'Antiga Esquerra de l'Eixample,Eixample,eixample,Q64124,L'Antiga Esquerra de l'Eixample,l antiga esquerra de l eixample,Q3291762
+Nou Barris,la Prosperitat,Nou Barris,nou barris,Q1641049,La Prosperitat,la prosperitat,Q3750926
+Horta-Guinardó,Horta,Horta-Guinardó,horta guinardo,Q1771488,"Horta, Barcelona",horta,Q15225338
+Sant Martí,Provençals del Poblenou,Sant Martí,sant marti,Q250935,Provençals del Poblenou,provencals del poblenou,Q6273541
+Sant Andreu,el Congrés i els Indians,Sant Andreu,sant andreu,Q1650230,El Congrés i els Indians,el congres i els indians,Q3813818
+Sant Martí,el Clot,Sant Martí,sant marti,Q250935,El Clot,el clot,Q2979686
+Horta-Guinardó,Montbau,Horta-Guinardó,horta guinardo,Q1771488,Montbau,montbau,Q3298502
+Horta-Guinardó,la Vall d'Hebron,Horta-Guinardó,horta guinardo,Q1771488,Vall d'Hebron,la vall d hebron,Q3298492
+Nou Barris,les Roquetes,Nou Barris,nou barris,Q1641049,Les Roquetes,les roquetes,Q1627690
+Horta-Guinardó,la Teixonera,Horta-Guinardó,horta guinardo,Q1771488,La Teixonera,la teixonera,Q3320705
+Sants-Montjuïc,la Marina de Port,Sants-Montjuïc,sants montjuic,Q753075,La Marina de Port,la marina de port,Q3751076
+Gràcia,Vallcarca i els Penitents,Gràcia,gracia,Q852697,Vallcarca i els Penitents,vallcarca i els penitents,Q2057331
+Horta-Guinardó,el Carmel,Horta-Guinardó,horta guinardo,Q1771488,El Carmel,el carmel,Q3319498
+Les Corts,Pedralbes,Les Corts,les corts,Q959944,Pedralbes,pedralbes,Q2562684
+Nou Barris,el Turó de la Peira,Nou Barris,nou barris,Q1641049,El Turó de la Peira,el turo de la peira,Q524311
+Nou Barris,la Guineueta,Nou Barris,nou barris,Q1641049,La Guineueta,la guineueta,Q2736697
+Sant Andreu,la Trinitat Vella,Sant Andreu,sant andreu,Q1650230,Trinitat Vella,la trinitat vella,Q6746220
+Horta-Guinardó,la Font d'en Fargues,Horta-Guinardó,horta guinardo,Q1771488,La Font d'en Fargues,la font d en fargues,Q3297889
+Sarrià-Sant Gervasi,Sarrià,Sarrià-Sant Gervasi,sarria sant gervasi,Q1765582,Sarrià,sarria,Q3043699
+Horta-Guinardó,Can Baró,Horta-Guinardó,horta guinardo,Q1771488,Can Baró,can baro,Q3321797
+Nou Barris,Canyelles,Nou Barris,nou barris,Q1641049,Canyelles,canyelles,Q3751386
+Sants-Montjuïc,Hostafrancs,Sants-Montjuïc,sants montjuic,Q753075,Hostafrancs,hostafrancs,Q3750929
+Eixample,Sant Antoni,Eixample,eixample,Q64124,Sant Antoni,sant antoni,Q720994
+Gràcia,el Coll,Gràcia,gracia,Q852697,el Coll,el coll,Q1932090
+Sants-Montjuïc,la Marina del Prat Vermell,Sants-Montjuïc,sants montjuic,Q753075,La Marina del Prat Vermell,la marina del prat vermell,Q3596095
+Gràcia,el Camp d'en Grassot i Gràcia Nova,Gràcia,gracia,Q852697,Camp d'en Grassot i Gràcia Nova,el camp d en grassot i gracia nova,Q2994821
+Nou Barris,Ciutat Meridiana,Nou Barris,nou barris,Q1641049,Ciutat Meridiana,ciutat meridiana,Q3320722
+Sant Andreu,Baró de Viver,Sant Andreu,sant andreu,Q1650230,Baró de Viver,baro de viver,Q1425291
+Horta-Guinardó,Sant Genís dels Agudells,Horta-Guinardó,horta guinardo,Q1771488,Sant Genís dels Agudells,sant genis dels agudells,Q3298510
+Nou Barris,Vilapicina i la Torre Llobeta,Nou Barris,nou barris,Q1641049,Vilapicina i la Torre Llobeta,vilapicina i la torre llobeta,Q3320806
+Nou Barris,Porta,Nou Barris,nou barris,Q1641049,Porta,porta,Q3750558
+Sant Martí,la Vila Olímpica del Poblenou,Sant Martí,sant marti,Q250935,La Vila Olímpica del Poblenou,la vila olimpica del poblenou,Q1167101
+Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,ciutat vella,Q941385,"Sant Pere, Santa Caterina i la Ribera","sant pere, santa caterina i la ribera",Q2442135
+Ciutat Vella,el Raval,Ciutat Vella,ciutat vella,Q941385,El Raval,el raval,Q1758503
+Sant Martí,Sant Martí de Provençals,Sant Martí,sant marti,Q250935,Sant Martí de Provençals,sant marti de provencals,Q3773169
+Eixample,la Nova Esquerra de l'Eixample,Eixample,eixample,Q64124,La Nova Esquerra de l'Eixample,la nova esquerra de l eixample,Q1026658
+Sant Andreu,el Bon Pastor,Sant Andreu,sant andreu,Q1650230,Bon Pastor,el bon pastor,Q3319496
+Sant Andreu,Sant Andreu,Sant Andreu,sant andreu,Q1650230,Sant Andreu de Palomar,sant andreu,Q990510
+Horta-Guinardó,el Baix Guinardó,Horta-Guinardó,horta guinardo,Q1771488,El Baix Guinardó,el baix guinardo,Q3297875
+Ciutat Vella,la Barceloneta,Ciutat Vella,ciutat vella,Q941385,"La Barceloneta, Barcelona",la barceloneta,Q377070
+Eixample,el Fort Pienc,Eixample,eixample,Q64124,Fort Pienc,el fort pienc,Q2107762
+Sant Martí,el Besòs i el Maresme,Sant Martí,sant marti,Q250935,El Besòs i el Maresme,el besos i el maresme,Q2390761
+Sant Andreu,Navas,Sant Andreu,sant andreu,Q1650230,Navas,navas,Q3813816
+Nou Barris,Torre Baró,Nou Barris,nou barris,Q1641049,Torre Baró,torre baro,Q3750940
+Sants-Montjuïc,Sants - Badal,Sants-Montjuïc,sants montjuic,Q753075,Sants-Badal,sants badal,Q3596096
+Sants-Montjuïc,la Bordeta,Sants-Montjuïc,sants montjuic,Q753075,La Bordeta,la bordeta,Q3753110
+Sant Martí,la Verneda i la Pau,Sant Martí,sant marti,Q250935,La Verneda i la Pau,la verneda i la pau,Q542473
+Sants-Montjuïc,Sants,Sants-Montjuïc,sants montjuic,Q753075,Sants,sants,Q2476184
+Horta-Guinardó,el Guinardó,Horta-Guinardó,horta guinardo,Q1771488,El Guinardó,el guinardo,Q3045547
+Nou Barris,Verdun,Nou Barris,nou barris,Q1641049,Verdun,verdun,Q3750551
+Sant Martí,el Camp de l'Arpa del Clot,Sant Martí,sant marti,Q250935,El Camp de l'Arpa del Clot,el camp de l arpa del clot,Q3294602
+Nou Barris,Vallbona,Nou Barris,nou barris,Q1641049,Vallbona,vallbona,Q3751072
+Sant Andreu,la Sagrera,Sant Andreu,sant andreu,Q1650230,La Sagrera,la sagrera,Q3773462
+Sants-Montjuïc,la Font de la Guatlla,Sants-Montjuïc,sants montjuic,Q753075,La Font de la Guatlla,la font de la guatlla,Q3750859
+Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,sarria sant gervasi,Q1765582,Sant Gervasi – Galvany,sant gervasi galvany,Q3389521
+Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,sarria sant gervasi,Q1765582,"Vallvidrera, el Tibidabo i les Planes","vallvidrera, el tibidabo i les planes",Q3310216
+Eixample,la Dreta de l'Eixample,Eixample,eixample,Q64124,Dreta de l'Eixample,la dreta de l eixample,Q1904302
+Gràcia,la Vila de Gràcia,Gràcia,gracia,Q852697,Vila de Gràcia,la vila de gracia,Q2741611
+Horta-Guinardó,la Clota,Horta-Guinardó,horta guinardo,Q1771488,La Clota,la clota,Q3320857
+Les Corts,les Corts,Les Corts,les corts,Q959944,Les Corts,les corts,Q3296693
+Sant Martí,el Poblenou,Sant Martí,sant marti,Q250935,El Poblenou,el poblenou,Q1404773
+Gràcia,la Salut,Gràcia,gracia,Q852697,La Salut,la salut,Q3320699
+Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,sant marti,Q250935,Diagonal Mar i el Front Marítim del Poblenou,diagonal mar i el front maritim del poblenou,Q2736444
+Sant Martí,el Parc i la Llacuna del Poblenou,Sant Martí,sant marti,Q250935,El Parc i la Llacuna del Poblenou,el parc i la llacuna del poblenou,Q3294440
+Eixample,la Sagrada Família,Eixample,eixample,Q64124,Sagrada Família,la sagrada familia,Q2470217
+Sarrià-Sant Gervasi,el Putxet i el Farró,Sarrià-Sant Gervasi,sarria sant gervasi,Q1765582,El Putxet i el Farró,el putxet i el farro,Q3321805
+Sants-Montjuïc,el Poble Sec,Sants-Montjuïc,sants montjuic,Q753075,"El Poble-sec, Barcelona",el poble sec,Q980253
+Les Corts,la Maternitat i Sant Ramon,Les Corts,les corts,Q959944,La Maternitat i Sant Ramon,la maternitat i sant ramon,Q3297056
