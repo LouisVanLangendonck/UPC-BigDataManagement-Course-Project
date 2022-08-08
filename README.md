@@ -2,7 +2,7 @@
 Course Project for Big Data Management Course 2022 at the Politechnical University of Catalunya (UPC). Authors are Louis Van Langendonck (part 1 and 2), Pim Schoolkate (part 1) and Alex Martorell (part 2). For each of both parts of the project, a detailed report can be found in the repository under the name of respectively 01_report.pdf and 02_report.pdf.
 
 ## Project Statement
-The goal of the project is manageing and analyzing different Barcelona Housing data sources to emulate a complete big data pipeline. 
+The goal of the project is managing and analyzing different Barcelona Housing data sources to emulate a complete big data pipeline. 
 
 The first part captures the landing zone, further divided into temporal and persistent stages. In this part, different big data storage techniques are explored and compared (HDFS with different Fragmentation Strategies, Hbase, MongoDB, ...)
 
